@@ -1,0 +1,8 @@
+{
+  "name": "CryptChat",
+  "description": "تطبيق الدردشة المتكامل Connetto Elite ذو الطابع الكوني الأنيق مع إمكانية إضافة أصدقاء وتبادل الرسائل النصية والصور والمذكرات الصوتية والمكالمات الوهمية.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
